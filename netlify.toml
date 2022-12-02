@@ -5,3 +5,7 @@
   package = "netlify-plugin-clacks"
 [[plugins]]
   package = "netlify-plugin-inline-source"
+[[redirects]]
+  from = "/.well-known/webfinger"
+  to = "https://social.effy.space/.well-known/webfinger"
+  status = 200
