@@ -8,3 +8,9 @@
 [[redirects]]
   from = "/.well-known/webfinger"
   to = "https://social.effy.space/.well-known/webfinger"
+[[redirects]]
+  from = "/.well-known/nodeinfo"
+  to = "https://social.effy.space/.well-known/nodeinfo"
+[[redirects]]
+  from = "/.well-known/host-meta"
+  to = "https://social.effy.space/.well-known/host-meta"
