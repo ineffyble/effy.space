@@ -15,5 +15,5 @@
   from = "/.well-known/host-meta"
   to = "https://social.effy.space/.well-known/host-meta"
 [[redirects]]
-  from = "/api/v2/search"
-  to = "https://social.effy.space/api/v2/search"
+  from = "/api/*"
+  to = "https://social.effy.space/api/:splat"
