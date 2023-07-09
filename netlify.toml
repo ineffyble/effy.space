@@ -14,3 +14,6 @@
 [[redirects]]
   from = "/.well-known/host-meta"
   to = "https://social.effy.space/.well-known/host-meta"
+[[redirects]]
+  from = "/api/*"
+  to = "https://social.effy.space/api/:splat"
