@@ -1,6 +1,6 @@
 {
   "name": "effy.space",
-  "packageManager": "yarn@3.5.0",
+  "packageManager": "yarn@3.6.1",
   "scripts": {
     "build": "cp -r site/ build/ && purgecss --css site/css/* --content site/index.html --output build/css/"
   },
