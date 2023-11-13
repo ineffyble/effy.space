@@ -6,9 +6,9 @@ __metadata:
   cacheKey: 8
 
 "@types/q@npm:^1.5.1":
-  version: 1.5.7
-  resolution: "@types/q@npm:1.5.7"
-  checksum: 6396fc20d7c0cdaf29d3d3d9fa4e07f6b79025ec3f0782a94a97a373f3e3b9cb658d3738982fb82d16a14846a526f64ef48f661f61271c1c2b070a3be3e238e5
+  version: 1.5.8
+  resolution: "@types/q@npm:1.5.8"
+  checksum: ff3b7f09c2746d068dee8d39501f09dbf71728c4facdc9cb0e266ea6615ad97e61267c0606ab3da88d11ef1609ce904cef45a9c56b2b397f742388d7f15bb740
   languageName: node
   linkType: hard
 
@@ -950,11 +950,11 @@ __metadata:
   linkType: hard
 
 "nanoid@npm:^3.3.6":
-  version: 3.3.6
-  resolution: "nanoid@npm:3.3.6"
+  version: 3.3.7
+  resolution: "nanoid@npm:3.3.7"
   bin:
     nanoid: bin/nanoid.cjs
-  checksum: 7d0eda657002738aa5206107bd0580aead6c95c460ef1bdd0b1a87a9c7ae6277ac2e9b945306aaa5b32c6dcb7feaf462d0f552e7f8b5718abfc6ead5c94a71b3
+  checksum: d36c427e530713e4ac6567d488b489a36582ef89da1d6d4e3b87eded11eb10d7042a877958c6f104929809b2ab0bafa17652b076cdf84324aa75b30b722204f2
   languageName: node
   linkType: hard
 
