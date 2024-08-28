@@ -7,6 +7,6 @@
   "devDependencies": {
     "netlify-plugin-clacks": "^1.0.0",
     "netlify-plugin-inline-source": "^1.0.4",
-    "purgecss": "^5.0.0"
+    "purgecss": "^6.0.0"
   }
 }
