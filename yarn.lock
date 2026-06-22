@@ -487,6 +487,18 @@ __metadata:
   languageName: node
   linkType: hard
 
+"es-abstract-get@npm:^1.0.0":
+  version: 1.0.0
+  resolution: "es-abstract-get@npm:1.0.0"
+  dependencies:
+    es-errors: ^1.3.0
+    es-object-atoms: ^1.1.2
+    is-callable: ^1.2.7
+    object-inspect: ^1.13.4
+  checksum: 625bb67d41ebc22e7585875a6ebb90dc9c153998c9866dc7d50ff7b1b9e178e216c0d23914e5dbfd0addb38aab344c142ad27ff4375c6d2acf095432a4d85fe3
+  languageName: node
+  linkType: hard
+
 "es-abstract@npm:^1.17.2, es-abstract@npm:^1.23.5, es-abstract@npm:^1.23.9, es-abstract@npm:^1.24.0, es-abstract@npm:^1.24.2":
   version: 1.24.2
   resolution: "es-abstract@npm:1.24.2"
@@ -592,13 +604,15 @@ __metadata:
   linkType: hard
 
 "es-to-primitive@npm:^1.3.0":
-  version: 1.3.0
-  resolution: "es-to-primitive@npm:1.3.0"
+  version: 1.3.1
+  resolution: "es-to-primitive@npm:1.3.1"
   dependencies:
+    es-abstract-get: ^1.0.0
+    es-errors: ^1.3.0
     is-callable: ^1.2.7
-    is-date-object: ^1.0.5
-    is-symbol: ^1.0.4
-  checksum: 966965880356486cd4d1fe9a523deda2084c81b3702d951212c098f5f2ee93605d1b7c1840062efb48a07d892641c7ed1bc194db563645c0dd2b919cb6d65b93
+    is-date-object: ^1.1.0
+    is-symbol: ^1.1.1
+  checksum: 60de686fcad3169be681968f661c75f7efe7932fb01bd81ff62e53f4854b8885a067fcaa239db342a858606dae456c2d42bf255cf4f76e4f2dd1ea76161cd5ca
   languageName: node
   linkType: hard
 
@@ -943,7 +957,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"is-date-object@npm:^1.0.5, is-date-object@npm:^1.1.0":
+"is-date-object@npm:^1.1.0":
   version: 1.1.0
   resolution: "is-date-object@npm:1.1.0"
   dependencies:
@@ -1046,7 +1060,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"is-symbol@npm:^1.0.4, is-symbol@npm:^1.1.1":
+"is-symbol@npm:^1.1.1":
   version: 1.1.1
   resolution: "is-symbol@npm:1.1.1"
   dependencies:
@@ -1199,11 +1213,11 @@ __metadata:
   linkType: hard
 
 "nanoid@npm:^3.3.12":
-  version: 3.3.12
-  resolution: "nanoid@npm:3.3.12"
+  version: 3.3.15
+  resolution: "nanoid@npm:3.3.15"
   bin:
     nanoid: bin/nanoid.cjs
-  checksum: 38699257447dc59e21e73e0510d0dfb16b7a610d9ca80633d5c3a68f9b4298c990513d30404ca8f163c2d03225ee01695ff8898bea6179183f38f0477b7635ac
+  checksum: 0f645685aefba48aae06acfb390be660041d91b4ec63d85544ed01b619c6d661c985170bfbcd29b7265b6c1c3369c631e5dcb2f34c34e2c0023108bc158531d1
   languageName: node
   linkType: hard
 
@@ -1479,11 +1493,11 @@ __metadata:
   linkType: hard
 
 "semver@npm:^7.3.2":
-  version: 7.8.4
-  resolution: "semver@npm:7.8.4"
+  version: 7.8.5
+  resolution: "semver@npm:7.8.5"
   bin:
     semver: bin/semver.js
-  checksum: 42404642f4b892bd95859c6e2c5777a2916d6e4f0d924441593dea0911cadf5d8761d41b4ca3701793818ecdc72982df5c6d6328cba88252a1f0ebf93e375463
+  checksum: 0c580f17e88e2b45806dc5cf3d824f719c946999d3554bf30307c2b68b3300ab3c8bfcd84d8f489b93b4cbb5362f5fc8de4d2858954f18d834253c4450fc9f6b
   languageName: node
   linkType: hard
 
