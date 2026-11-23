@@ -1240,9 +1240,9 @@ __metadata:
   linkType: hard
 
 "object-inspect@npm:^1.13.3, object-inspect@npm:^1.13.4":
-  version: 1.13.4
-  resolution: "object-inspect@npm:1.13.4"
-  checksum: 582810c6a8d2ef988ea0a39e69e115a138dad8f42dd445383b394877e5816eb4268489f316a6f74ee9c4e0a984b3eab1028e3e79d62b1ed67c726661d55c7a8b
+  version: 1.14.0
+  resolution: "object-inspect@npm:1.14.0"
+  checksum: d3fe184c3166aa1963d06036d982bf7d46cbce64723e0228de92b58399423ab73a017445fc63ba83bdb334566b9e8e02f55812d3eecd4cd050e2edefedc2e285
   languageName: node
   linkType: hard
 
@@ -1580,9 +1580,9 @@ __metadata:
   linkType: hard
 
 "source-map-js@npm:^1.2.2":
-  version: 1.2.2
-  resolution: "source-map-js@npm:1.2.2"
-  checksum: d4f3adc1921e145fe84574b5852d7f5bf11e93d6c008a250ffe66a3e698331f066008cc3ba63e720dde07fe74871f1610d2e74532d33b27126e82e57c00df3bf
+  version: 1.2.4
+  resolution: "source-map-js@npm:1.2.4"
+  checksum: 7ad68b0f3b0167d4bc3e8507b5140a1d8de032a5ac42169e0007628a4e67d6d2e97d1f171274481475bb6331500ec31f0a43e25fd178f9d4251e2c0fbbeb2856
   languageName: node
   linkType: hard
 
@@ -1727,15 +1727,15 @@ __metadata:
   linkType: hard
 
 "terser@npm:^4.1.0":
-  version: 4.8.1
-  resolution: "terser@npm:4.8.1"
+  version: 4.8.2
+  resolution: "terser@npm:4.8.2"
   dependencies:
     commander: ^2.20.0
     source-map: ~0.6.1
     source-map-support: ~0.5.12
   bin:
     terser: bin/terser
-  checksum: b342819bf7e82283059aaa3f22bb74deb1862d07573ba5a8947882190ad525fd9b44a15074986be083fd379c58b9a879457a330b66dcdb77b485c44267f9a55a
+  checksum: e98c6e65c762562889b702b3cd04506cd35b745b9315019d3d3f31ac32851dd6755c4b3b64b3573a2975d3323f3e9678854e59ed100e941d2d32840b5e6bf2d4
   languageName: node
   linkType: hard
 
